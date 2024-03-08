@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <style>
+        .section-title {
+            text-transform: uppercase;
+            font-weight: bold;
+            border-bottom: 1px solid black;
+        }
+        .section {
+            margin-bottom: 40px;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="profile">
+        <table width="713" height="100" cellspacing="0" cellpadding="0" align="center">
+            <tr class="section">
+                <td width="600">
+                    <h1>
+                        <font color="#0e2452">
+                        Hoàng Hải Quân
+                        </font>
+                    </h1>
+                    <p>
+                        <strong>Ngày sinh:</strong> 
+                        06/01/2004</p>
+                    <p>
+                        <strong>Giới tính:</strong> 
+                        Nam
+                    </p>
+                    <p>
+                        <strong>Điện thoại:</strong>
+                        (+84) 348888702
+                    </p>
+                    <p>
+                        <strong>Email:</strong>
+                        Quanhhde180071@fpt.edu.vn
+                    </p>
+                    <p>
+                        <strong>Địa chỉ:</strong>
+                        Nghi Xuân, Hà Tĩnh, Việt Nam
+                    </p>
+                    <p>
+                        <strong>Website:</strong>
+                    </p>
+                </td>
+                <td valign="top">
+                    <img src="./image/HoangHaiQuan.jpg" width="113px" height="113px">
+                </td>
+            </tr>
+        </table>
+    </div>
+        <table width="713" height="100" cellspacing="0" cellpadding="0" align="center">
+            <tr class="section">
+                <td>
+                    <div id="career-objective">
+                        <h2 class="section-title">MỤC TIÊU NGHỀ NGHIỆP</h2>
+                        <p>Trong tương lai, tôi muốn mình trở thành 1 người lập trình viên giỏi, có thể giải quyết nhiều vấn đề phức tạp trong nghề lập trình. Tôi hướng đến mục tiêu dài hạn là nâng cao trình độ tay nghề của mình, có thể ra nước ngoài sinh sống và làm việc. Tôi sẽ cố gắng học tập và rèn luyện để thực hiện những mục tiêu mà mình đã đề ra.</p>
+                    </div>
+                </td>
+            </tr>
+            <tr class="section">
+                <td>
+                    <div>
+                        <h2 class="section-title">TRÌNH ĐỘ HỌC VẤN</h2>
+                    </div>
+                    <table width="713" height="100" cellspacing="0" cellpadding="0" align="center">
+                        <tr>
+                            <div>
+                                <td width="300" valign="top">
+                                    <p>2019 - 2022</p>
+                                </td>
+                            </div>
+                            <td>
+                                <div>
+                                <h4>Tốt nghiệp loại GIỎI - THPT</h4>
+                                    <p>GPA: 8.4/10.0</p>
+                                </div>
+                            </td>
+                        </tr>
+                        <tr>
+                            <div>
+                                <td width="300" valign="top">
+                                    <p>2015 - 2019</p>
+                                </td>
+                            </div>
+                            <td>
+                                <div>
+                                    <h4>Tốt nghiệp loại GIỎI - THCS</h4>
+                                    <p>GPA: 8.6/10.0</p>
+                                </div>
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <div>
+                        <h2 class="section-title">SỞ THÍCH</h2>
+                    </div>
+                    <ul>
+                        <li>Đọc sách</li>
+                        <li>Chơi thể thao</li>
+                        <li>Du lịch</li>
+                        <li>Xem phim</li>
+                        <li>Nấu ăn</li>
+                    </ul>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <div>
+                        <h2 class="section-title">LIÊN HỆ</h2>
+                    </div>
+                    <ol>
+                        <li>
+                            <a href="https://www.facebook.com/quan.hoanghai.0601/about">Facebook: Hoàng Hải Quân</a>
+                        </li>
+                        <li>Gmail: Quanhhde180071@fpt.edu.vn</li>
+                    </ol>
+                </td>
+            </tr>
+        </table>
+</body>
+
+</html>
